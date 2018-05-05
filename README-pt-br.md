@@ -53,7 +53,7 @@ da letra contida em qualquer site retornado pela busca na API da Google.
 
 ## Formação
 
-**Engenharia de Computação - **UTFPR** - Agosto 2010 - Julho 2015
+**Engenharia de Computação** - **UTFPR** - Agosto 2010 - Julho 2015
 
 **Técnico em Informática** - **Colégio Divino Salvador** - Janeiro 2006 - Julho 2008
 
@@ -65,7 +65,6 @@ da letra contida em qualquer site retornado pela busca na API da Google.
 
 ## Extras
 
-* Premiação no 33ª edição do Concurso de Trabalhos de Iniciação Científica (XXXIV Congresso da Sociedade Brasileira de Computação) - [Recuperação Inteligente de Letras de Músicas na Web](http://www.utfpr.edu.br/cornelioprocopio/estrutura-universitaria/assessorias/ascom/noticias/acervo/2014-1/engenharia-da-computacao)
-* Publicação do Artigo The Ethnic Lyrics Fetcher tool - [EURASIP Journal on Audio, Speech, and Music Processing](https://asmp-eurasipjournals.springeropen.com/track/pdf/10.1186/s13636-014-0027-4)
-* Classificação Automática de Emoções Utilizando Letras de Músicas. 2014. (Apresentação de Trabalho/Seminário)
-* Recuperação Inteligente de Letras de Música na Web. 2013. (Apresentação de Trabalho/Seminário)
+* The Ethnic Lyrics Fetcher tool - [EURASIP Journal on Audio, Speech, and Music Processing](https://asmp-eurasipjournals.springeropen.com/track/pdf/10.1186/s13636-014-0027-4)
+* Nordic Music Genre Classification Using Song Lyrics - [International Conference on Applications of Natural Language to Data Bases/Information Systems](https://link.springer.com/chapter/10.1007/978-3-319-07983-7_14)
+* Concurso de Trabalhos de Iniciação Científica (XXXIV Congresso da Sociedade Brasileira de Computação) - [Recuperação Inteligente de Letras de Músicas na Web](http://www.utfpr.edu.br/cornelioprocopio/estrutura-universitaria/assessorias/ascom/noticias/acervo/2014-1/engenharia-da-computacao)
